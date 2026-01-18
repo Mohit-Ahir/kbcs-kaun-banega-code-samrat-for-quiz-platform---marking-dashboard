@@ -1,0 +1,44 @@
+{
+  "teams": [
+    {
+      "id": 1757848960520,
+      "name": "Brain Bytes",
+      "score": 0
+    },
+    {
+      "id": 1757848967588,
+      "name": "Logic Legends",
+      "score": 0
+    },
+    {
+      "id": 1757848985691,
+      "name": "Stack Smashers",
+      "score": 0
+    },
+    {
+      "id": 1757848991611,
+      "name": "Function Fanatics",
+      "score": 0
+    },
+    {
+      "id": 1757918658021,
+      "name": "Trojan Master",
+      "score": 0
+    },
+    {
+      "id": 1758087852131,
+      "name": "vfsgs",
+      "score": 0
+    },
+    {
+      "id": 1758251487952,
+      "name": "mmmama",
+      "score": 0
+    }
+  ],
+  "gameState": {
+    "currentRound": 1,
+    "currentQuestionIndex": -1,
+    "isScreenActive": false
+  }
+}
